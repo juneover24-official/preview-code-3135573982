@@ -1,7 +1,7 @@
 {
   "qq_number": "3135573982",
   "group_number": "744620992",
-  "updated_at": "2026-06-30T15:13:58+00:00",
+  "updated_at": "2026-06-30T15:16:56+00:00",
   "skins": [
     {
       "name": "Ash安时のLan困困_融合",
@@ -530,6 +530,12 @@
       "file": "Ash安时の布丁柠汽水-闷脆.bdi",
       "thumb": "Ash安时の布丁柠汽水-闷脆.bdi_py_26_light_thumb.png",
       "full": "Ash安时の布丁柠汽水-闷脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Ash安时の伯爵的猫狗 脆",
+      "file": "Ash安时の伯爵的猫狗-脆.bds",
+      "thumb": "Ash安时の伯爵的猫狗-脆.bds_py_26_light_thumb.png",
+      "full": "Ash安时の伯爵的猫狗-脆.bds_py_26_light_thumb.png"
     }
   ]
 }
