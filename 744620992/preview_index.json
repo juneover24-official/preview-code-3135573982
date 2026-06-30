@@ -1,7 +1,7 @@
 {
   "qq_number": "3135573982",
   "group_number": "744620992",
-  "updated_at": "2026-06-30T09:43:18+00:00",
+  "updated_at": "2026-06-30T09:43:28+00:00",
   "skins": [
     {
       "name": "Ash安时のLan困困_融合",
@@ -98,6 +98,12 @@
       "file": "Ash安时のBloodTrial.bds",
       "thumb": "Ash安时のBloodTrial.bds_py_26_light_thumb.png",
       "full": "Ash安时のBloodTrial.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Ash安时のBloodTrial",
+      "file": "Ash安时のBloodTrial.bdi",
+      "thumb": "Ash安时のBloodTrial.bdi_py_26_light_thumb.png",
+      "full": "Ash安时のBloodTrial.bdi_py_26_light_thumb.png"
     }
   ]
 }
