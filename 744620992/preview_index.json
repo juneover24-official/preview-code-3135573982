@@ -1,7 +1,7 @@
 {
   "qq_number": "3135573982",
   "group_number": "744620992",
-  "updated_at": "2026-06-30T15:35:07+00:00",
+  "updated_at": "2026-06-30T15:35:25+00:00",
   "skins": [
     {
       "name": "Ash安时のLan困困_融合",
@@ -598,12 +598,6 @@
       "full": "Ash安时の档案查询-闷.bdi_py_26_light_thumb.png"
     },
     {
-      "name": "Ash安时の我的心Unlock①-闷",
-      "file": "Ash安时の我的心Unlock①-闷.bdi",
-      "thumb": "Ash安时の我的心Unlock①-闷.bdi_py_26_light_thumb.png",
-      "full": "Ash安时の我的心Unlock①-闷.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "Ash安时の小暹罗咖啡店 脆",
       "file": "Ash安时の小暹罗咖啡店脆.bds",
       "thumb": "Ash安时の小暹罗咖啡店脆.bds_py_26_light_thumb.png",
@@ -644,6 +638,12 @@
       "file": "Ash安时の我的心Unlock①-脆.bdi",
       "thumb": "Ash安时の我的心Unlock①-脆.bdi_py_26_light_thumb.png",
       "full": "Ash安时の我的心Unlock①-脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Ash安时の我的心Unlock①-闷",
+      "file": "Ash安时の我的心Unlock①-闷.bdi",
+      "thumb": "Ash安时の我的心Unlock①-闷.bdi_py_26_light_thumb.png",
+      "full": "Ash安时の我的心Unlock①-闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
