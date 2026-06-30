@@ -1,7 +1,7 @@
 {
   "qq_number": "3135573982",
   "group_number": "744620992",
-  "updated_at": "2026-06-30T09:42:40+00:00",
+  "updated_at": "2026-06-30T09:42:49+00:00",
   "skins": [
     {
       "name": "Ash安时のLan困困_融合",
@@ -74,6 +74,12 @@
       "file": "Ash安时の拼凑的断音_闷.bds",
       "thumb": "Ash安时の拼凑的断音_闷.bds_py_26_light_thumb.png",
       "full": "Ash安时の拼凑的断音_闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Ash安时の初音未来_脆脆融合",
+      "file": "Ash安时の拼凑的断音_脆.bds",
+      "thumb": "Ash安时の拼凑的断音_脆.bds_py_26_light_thumb.png",
+      "full": "Ash安时の拼凑的断音_脆.bds_py_26_light_thumb.png"
     }
   ]
 }
