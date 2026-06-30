@@ -1,7 +1,7 @@
 {
   "qq_number": "3135573982",
   "group_number": "744620992",
-  "updated_at": "2026-06-30T09:13:45+00:00",
+  "updated_at": "2026-06-30T09:13:58+00:00",
   "skins": [
     {
       "name": "Ash安时のLan困困_融合",
@@ -20,6 +20,12 @@
       "file": "Ash安时の芬星磁带-融.bds",
       "thumb": "Ash安时の芬星磁带-融.bds_py_26_light_thumb.png",
       "full": "Ash安时の芬星磁带-融.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Ash安时の芬星磁带",
+      "file": "Ash安时の芬星磁带.bdi",
+      "thumb": "Ash安时の芬星磁带.bdi_py_26_light_thumb.png",
+      "full": "Ash安时の芬星磁带.bdi_py_26_light_thumb.png"
     }
   ]
 }
