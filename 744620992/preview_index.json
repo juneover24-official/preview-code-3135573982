@@ -1,7 +1,7 @@
 {
   "qq_number": "3135573982",
   "group_number": "744620992",
-  "updated_at": "2026-06-30T10:09:38+00:00",
+  "updated_at": "2026-06-30T10:09:44+00:00",
   "skins": [
     {
       "name": "Ash安时のLan困困_融合",
@@ -206,6 +206,12 @@
       "file": "Ash安时の星辰浅灰脆.bds",
       "thumb": "Ash安时の星辰浅灰脆.bds_py_26_light_thumb.png",
       "full": "Ash安时の星辰浅灰脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Ash安时の星风薄荷 脆",
+      "file": "Ash安时の星风薄荷脆.bds",
+      "thumb": "Ash安时の星风薄荷脆.bds_py_26_light_thumb.png",
+      "full": "Ash安时の星风薄荷脆.bds_py_26_light_thumb.png"
     }
   ]
 }
